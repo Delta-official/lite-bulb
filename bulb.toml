@@ -1,0 +1,21 @@
+[info]
+name = "bulb"
+version = "3" 
+# Plugin "mod-version"
+# Required
+# Format: MAJOR[.MINOR]
+# Note: If MINOR is omitted, 
+
+[dep]
+
+
+[install]
+pre = "" 
+# Run before installation
+# Can be used for installing external dependencies
+# Default: ""
+
+post = ""
+# Run after installation
+# Can be used to overwrite other plugins 
+# Default: ""
