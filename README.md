@@ -1,4 +1,4 @@
-# lite-bulb
+<p style="text-align: center;">lite-bulb</p>
 💡minimalist, vim-plug inspired plugin manager for lite-xl
 
 
